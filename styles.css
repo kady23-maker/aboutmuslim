@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; /* Menambahkan efek scroll halus */
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
